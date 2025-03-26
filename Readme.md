@@ -99,5 +99,5 @@ This project is licensed under the MIT License.
 ---
 
 ## 📧 Contact
-For questions or suggestions, contact **Daniel Igwe** at **igweed93@email.com**.
+For questions or suggestions, contact **Daniel Igwe** at **igwed93@email.com**.
 
